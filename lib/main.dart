@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       
       home: Scaffold(
-        backgroundColor: Colors.teal,
+        backgroundColor: Colors.red,
         body: SafeArea(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
